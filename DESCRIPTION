@@ -1,0 +1,11 @@
+Package: perceptronentrena
+Type: Package
+Title: Entrenamiento de un Perceptron Simple
+Version: 0.1.0
+Authors@R: person("Viviana", "Pujos", email = "vip158@hotmail.com", role = c("aut", "cre"))
+Description: Entrena un perceptron simple con variables estandarizadas.
+    Basado en el codigo del Ing. Edwin Mejia.
+License: GPL-3
+Encoding: UTF-8
+Imports:
+    stats

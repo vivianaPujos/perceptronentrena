@@ -1,0 +1,2 @@
+export(entrenar_perceptron)
+importFrom(stats,sd)
